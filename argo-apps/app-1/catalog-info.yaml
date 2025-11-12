@@ -11,3 +11,5 @@ spec:
   type: website
   owner: user:mkilchhofer
   lifecycle: experimental
+  dependsOn:
+    - system:core-kubernetes-platform

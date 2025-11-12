@@ -11,3 +11,5 @@ spec:
   type: website
   owner: john@example.com
   lifecycle: experimental
+  dependsOn:
+    - system:core-kubernetes-platform

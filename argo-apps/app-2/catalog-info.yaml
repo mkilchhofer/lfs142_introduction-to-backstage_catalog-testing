@@ -12,4 +12,4 @@ spec:
   owner: john@example.com
   lifecycle: experimental
   dependsOn:
-    - system:core-kubernetes-platform
+    - resource:k3s-cluster

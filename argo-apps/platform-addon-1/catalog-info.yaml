@@ -13,4 +13,4 @@ spec:
   lifecycle: experimental
   system: core-kubernetes-platform
   dependsOn:
-    - system:core-kubernetes-platform
+    - resource:k3s-cluster

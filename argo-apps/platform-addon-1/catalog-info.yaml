@@ -9,6 +9,6 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: john@example.com
+  owner: mkilchhofer
   lifecycle: experimental
   system: core-kubernetes-platform

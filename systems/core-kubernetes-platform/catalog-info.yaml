@@ -4,4 +4,4 @@ metadata:
   name: core-kubernetes-platform
   description: The core Kubernetes platform system.
 spec:
-  owner: guests
+  owner: user:mkilchhofer
